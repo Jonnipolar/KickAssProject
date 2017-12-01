@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1512036620 source:c:\users\vilhjalmur\dropbox\skólagit\vika-1-verkefni-2a - copy\src\superhero.cpp
+	"superhero.h"
+
+1511947632 c:\users\vilhjalmur\dropbox\skólagit\vika-1-verkefni-2a - copy\include\superhero.h
+	<iostream>
+	<fstream>
+
+1512042360 source:c:\users\vilhjalmur\dropbox\skólagit\vika-1-verkefni-2a - copy\main.cpp
+	<iostream>
+	"superhero.h"
+	<vector>
+
+1512167339 source:c:\users\villi\dropbox\skólagit\vika-1-verkefni-2a - copy\src\superhero.cpp
+	"superhero.h"
+
+1512167339 c:\users\villi\dropbox\skólagit\vika-1-verkefni-2a - copy\include\superhero.h
+	<iostream>
+	<fstream>
+
+1512167381 source:c:\users\villi\dropbox\skólagit\vika-1-verkefni-2a - copy\main.cpp
+	<iostream>
+	"superhero.h"
+	<vector>
+

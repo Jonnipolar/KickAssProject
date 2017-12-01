@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1511915239 source:c:\users\villi\dropbox\skólaskjöl\forritun\codeblocks\verk 10\vika1-verkefni 2b\main.cpp
+	<iostream>
+	"superhero.h"
+
+1511914517 source:c:\users\villi\dropbox\skólaskjöl\forritun\codeblocks\verk 10\vika1-verkefni 2b\src\superhero.cpp
+	"superhero.h"
+
+1511914296 c:\users\villi\dropbox\skólaskjöl\forritun\codeblocks\verk 10\vika1-verkefni 2b\include\superhero.h
+	<iostream>
+	<fstream>
+
+1512036620 source:c:\users\vilhjalmur\dropbox\skólagit\vika-1-verkefni-2a\src\superhero.cpp
+	"superhero.h"
+
+1511947632 c:\users\vilhjalmur\dropbox\skólagit\vika-1-verkefni-2a\include\superhero.h
+	<iostream>
+	<fstream>
+
+1512036744 source:c:\users\vilhjalmur\dropbox\skólagit\vika-1-verkefni-2a\main.cpp
+	<iostream>
+	"superhero.h"
+
