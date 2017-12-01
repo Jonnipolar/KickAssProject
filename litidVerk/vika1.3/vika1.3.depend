@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1512083451 source:c:\users\kjart\onedrive\hr\vln\vika1\vika1.3\main.cpp
+	<iostream>
+	"Superhero.h"
+	<fstream>
+	<sstream>
+
+1512083452 c:\users\kjart\onedrive\hr\vln\vika1\vika1.3\include\superhero.h
+	<iostream>
+
+1512083453 source:c:\users\kjart\onedrive\hr\vln\vika1\vika1.3\src\superhero.cpp
+	"Superhero.h"
+	<iostream>
+
+1511996601 source:c:\users\kjartan\onedrive\hr\vln\vika1\vika1.3\src\superhero.cpp
+	"Superhero.h"
+	<iostream>
+	<fstream>
+	<sstream>
+
+1511996107 c:\users\kjartan\onedrive\hr\vln\vika1\vika1.3\include\superhero.h
+	<iostream>
+
+1511996734 source:c:\users\kjartan\onedrive\hr\vln\vika1\vika1.3\main.cpp
+	<iostream>
+	"Superhero.h"
+	<fstream>
+	<sstream>
+

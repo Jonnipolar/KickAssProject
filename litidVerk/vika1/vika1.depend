@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1512064334 source:c:\users\kjartan\onedrive\hr\vln\vika1\vika1\main.cpp
+	<iostream>
+	<fstream>
+	"Person.h"
+
+1512062000 c:\users\kjartan\onedrive\hr\vln\vika1\vika1\include\person.h
+	<iostream>
+
+1512061999 source:c:\users\kjartan\onedrive\hr\vln\vika1\vika1\src\person.cpp
+	"Person.h"
+
+1512137215 source:c:\users\kjart\onedrive\hr\vln\vika1\vika1\src\person.cpp
+	"Person.h"
+	<stdio.h>
+	<string.h>
+
+1512139950 c:\users\kjart\onedrive\hr\vln\vika1\vika1\include\person.h
+	<iostream>
+
+1512134257 source:c:\users\kjart\onedrive\hr\vln\vika1\vika1\main.cpp
+	<iostream>
+	<fstream>
+	"Person.h"
+

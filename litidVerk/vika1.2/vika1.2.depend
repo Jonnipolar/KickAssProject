@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1511954265 source:c:\users\kjart\onedrive\hr\vln\vika1\vika1.2\main.cpp
+	<iostream>
+	<fstream>
+
